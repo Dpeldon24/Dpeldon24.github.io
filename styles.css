@@ -1,0 +1,371 @@
+/* ================================================
+   Deki Peldon — Personal Academic Website Styles
+   ================================================ */
+
+/* --- Google Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Open+Sans:wght@300;400;600&display=swap');
+
+/* --- Base typography --- */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.75;
+  color: #333;
+}
+
+/* --- Navbar overrides --- */
+.navbar {
+  border-bottom: 3px solid #c97d3c;
+}
+.navbar-nav .nav-link {
+  padding: 0.65rem 1.1rem !important;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: background 0.2s, color 0.2s;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  background-color: #c97d3c !important;
+  color: #fff !important;
+  border-radius: 0;
+}
+.navbar-brand {
+  font-family: 'Lora', serif;
+  font-size: 1.2rem !important;
+}
+
+/* --- Site banner (home page) --- */
+.site-banner {
+  position: relative;
+  width: 100%;
+  height: 165px;
+  background: #1e2835;
+  overflow: hidden;
+}
+.banner-svg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 68%;
+}
+.banner-name {
+  position: absolute;
+  bottom: 28px;
+  left: 42px;
+  font-family: 'Lora', serif;
+  font-size: 2.6rem;
+  font-weight: 600;
+  color: #fff;
+  z-index: 2;
+  letter-spacing: 0.02em;
+  text-shadow: 1px 2px 6px rgba(0,0,0,0.4);
+}
+
+/* --- Home page two-column layout --- */
+.home-layout {
+  display: flex;
+  gap: 50px;
+  max-width: 1050px;
+  margin: 36px auto;
+  padding: 0 30px;
+}
+.sidebar-col {
+  width: 195px;
+  flex-shrink: 0;
+}
+.main-col {
+  flex: 1;
+  min-width: 0;
+}
+
+/* --- Profile card --- */
+.profile-card {
+  text-align: center;
+}
+.profile-photo-wrap {
+  width: 160px;
+  height: 200px;
+  margin: 0 auto 14px;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+.profile-photo-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.photo-placeholder {
+  width: 160px;
+  height: 200px;
+  background: #ececec;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 14px;
+  color: #999;
+  font-size: 0.82rem;
+}
+.profile-name {
+  font-family: 'Lora', serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #1e2835;
+  margin-bottom: 6px;
+}
+.profile-title {
+  font-size: 0.8rem;
+  color: #c97d3c;
+  line-height: 1.55;
+  margin-bottom: 14px;
+}
+.social-row {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  background: #2c3e50;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-size: 0.8rem;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+.social-btn:hover {
+  background: #c97d3c !important;
+}
+.profile-email {
+  font-size: 0.76rem;
+  color: #666;
+  word-break: break-all;
+  text-decoration: none;
+}
+.profile-email:hover {
+  color: #c97d3c;
+}
+
+/* --- Bio section --- */
+.bio-text p {
+  margin-bottom: 15px;
+  text-align: justify;
+}
+.interests-heading {
+  font-family: 'Lora', serif;
+  font-size: 1rem;
+  color: #1e2835;
+  margin: 22px 0 10px;
+  font-weight: 600;
+}
+.interest-tag {
+  display: inline-block;
+  background: #1e2835;
+  color: #fff;
+  padding: 3px 13px;
+  border-radius: 20px;
+  font-size: 0.76rem;
+  margin: 3px 3px 3px 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* --- Dissertation block --- */
+.dissertation-box {
+  background: #f7f5f2;
+  border-left: 4px solid #c97d3c;
+  padding: 24px 28px;
+  margin: 10px 0 36px;
+  border-radius: 0 4px 4px 0;
+}
+.dissertation-box > p:first-child {
+  font-family: 'Lora', serif;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: #1e2835;
+  margin-bottom: 6px;
+}
+.dissertation-box > p:nth-child(2) {
+  margin-bottom: 24px;
+  color: #444;
+}
+.diss-papers {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 20px;
+}
+.diss-paper {
+  background: #fff;
+  border: 1px solid #e0dbd4;
+  border-top: 3px solid #c97d3c;
+  padding: 16px 18px;
+  border-radius: 0 0 4px 4px;
+}
+.diss-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #c97d3c;
+  margin-bottom: 6px;
+}
+.diss-paper p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* --- Content pages (research, teaching, cv) --- */
+.content-page {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 30px 20px 60px;
+}
+
+/* Section headings */
+h2 {
+  font-family: 'Lora', serif;
+  color: #c97d3c;
+  font-size: 1.45rem;
+  margin-top: 40px;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #c97d3c;
+}
+h3 {
+  font-family: 'Lora', serif;
+  font-size: 1.05rem;
+  color: #1e2835;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+/* --- Working paper / publication list --- */
+.paper-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.paper-list li {
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+  line-height: 1.6;
+}
+.paper-list li:last-child {
+  border-bottom: none;
+}
+.paper-num {
+  color: #c97d3c;
+  font-weight: 600;
+  margin-right: 6px;
+}
+.paper-title {
+  font-style: italic;
+}
+.paper-coauthor {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Publication entry */
+.pub-entry {
+  margin-bottom: 16px;
+  padding-left: 14px;
+  border-left: 3px solid #c97d3c;
+  line-height: 1.65;
+}
+
+/* --- Teaching lists --- */
+.course-list {
+  list-style: none;
+  padding: 0;
+}
+.course-list li {
+  padding: 6px 0;
+  border-bottom: 1px solid #f5f5f5;
+  font-size: 0.92rem;
+}
+.course-list li:last-child {
+  border-bottom: none;
+}
+.course-sem {
+  color: #888;
+  font-size: 0.82rem;
+  margin-left: 6px;
+}
+
+/* --- Awards/grants list --- */
+.award-list {
+  list-style: none;
+  padding: 0;
+}
+.award-list li {
+  padding: 6px 0 6px 18px;
+  border-bottom: 1px solid #f5f5f5;
+  font-size: 0.92rem;
+  position: relative;
+}
+.award-list li::before {
+  content: "▸";
+  color: #c97d3c;
+  position: absolute;
+  left: 0;
+}
+
+/* --- CV page --- */
+.cv-download-box {
+  background: #f8f8f8;
+  border: 1px solid #e0e0e0;
+  border-left: 4px solid #c97d3c;
+  padding: 20px 24px;
+  margin: 20px 0 36px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.cv-download-box a {
+  background: #1e2835;
+  color: #fff;
+  padding: 9px 22px;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: 3px;
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+.cv-download-box a:hover {
+  background: #c97d3c;
+}
+
+/* --- Responsive --- */
+@media (max-width: 700px) {
+  .home-layout {
+    flex-direction: column;
+    gap: 30px;
+    padding: 0 16px;
+  }
+  .sidebar-col {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .banner-name {
+    font-size: 1.8rem;
+    left: 20px;
+  }
+  .site-banner {
+    height: 120px;
+  }
+}

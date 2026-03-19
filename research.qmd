@@ -1,0 +1,89 @@
+---
+title: "Research"
+---
+
+<div class="content-page">
+
+## Dissertation
+
+<div class="dissertation-box">
+<p><em>Assassination as Strategic Choice: Consequences, Risks, and Triggers</em></p>
+<p>My dissertation examines political assassination as a strategic instrument of statecraft, tracing the decision points that surround its use. Drawing on quantitative methods and original data, the three papers form a unified argument: states choose targeted killing by weighing its downstream consequences, the risks of failure, and the conditions that push them past non-lethal alternatives.</p>
+<div class="diss-papers">
+<div class="diss-paper">
+<div class="diss-label">Paper 1 — Consequences</div>
+<p><strong>How do societies respond after an assassination?</strong> The first paper examines the downstream effects of successful assassinations, asking how political violence of this kind reshapes social and political order in the aftermath.</p>
+</div>
+<div class="diss-paper">
+<div class="diss-label">Paper 2 — Failure</div>
+<p><strong>What happens when an assassination attempt does not succeed?</strong> The second paper turns to failed attempts, analyzing how the survival of a target — and the exposure of state intent — affects political dynamics and the position of the would-be assassin.</p>
+</div>
+<div class="diss-paper">
+<div class="diss-label">Paper 3 — Escalation</div>
+<p><strong>When do states move from repression to killing?</strong> The third paper focuses on the triggers of escalation, examining the conditions under which states cross from non-lethal tools of repression to targeted killing as a strategy of political control.</p>
+</div>
+</div>
+</div>
+
+## Working Papers
+
+<ul class="paper-list">
+  <li>
+    <span class="paper-num">1.</span>
+    <span class="paper-title">"Coercion Without Borders: Interstate Collaboration, Infiltration, and Strategic Repression of Dissent Abroad"</span>
+    <span class="paper-coauthor"> (with Howard Liu)</span>
+  </li>
+  <li>
+    <span class="paper-num">2.</span>
+    <span class="paper-title">"Signals of Strength: Do States Maintain Rivalries During Internal Instability?"</span>
+  </li>
+  <li>
+    <span class="paper-num">3.</span>
+    <span class="paper-title">"A Volatile Electorate in a Small Democratizing State?"</span>
+    <span class="paper-coauthor"> (with Nitasha Kaul)</span>
+  </li>
+  <li>
+    <span class="paper-num">4.</span>
+    <span class="paper-title">"Strategic Democratization"</span>
+  </li>
+</ul>
+
+## Publications
+
+### Book Chapters
+
+<div class="pub-entry">
+Liu, Howard and <strong>Peldon, Deki</strong>. "Surveillance Studies." In <em>The Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Braithwaite, pp. 91–108. De Gruyter, 2025. DOI: 10.1515/9783111298559-006.
+</div>
+
+## Grants & Awards
+
+### Grants and Fellowships
+
+<ul class="award-list">
+  <li>Political Networks Conference Fellowship, 2025</li>
+  <li>Smith Richardson Fellowship, 2024–2025</li>
+  <li>Li-Ching Graduate Fellowship, 2024</li>
+  <li>Bhutan and Himalayan Research Grant, 2021–2022</li>
+  <li>Annual University Research Grant, 2021</li>
+</ul>
+
+### Awards
+
+<ul class="award-list">
+  <li>Department Award for Best Graduate Student, University of South Carolina, 2024–2025</li>
+  <li>Department Prize for Outstanding Performance, Royal University of Bhutan, 2018–2022</li>
+  <li>Outstanding Delegation Award, National Model United Nations, New York, 2017</li>
+  <li>Outstanding Position Paper, Second General Assembly, National Model United Nations, New York, 2017</li>
+  <li>Outstanding Delegation for UNHCR, Dayton Model United Nations, Ohio, 2017</li>
+</ul>
+
+## Conference Presentations
+
+<ul class="award-list">
+  <li>Political Networks and Computational Social Science Conference (PolNet–PaCSS), Boston, 2025 — <em>Presenter</em></li>
+  <li>Carolina Conflict Consortium (CCC), Charleston, 2025 — <em>Attendance</em></li>
+  <li>Carolina Conflict Consortium, Boone, NC, 2023 — <em>Presenter</em></li>
+</ul>
+
+</div>

@@ -1,0 +1,48 @@
+---
+title: "CV"
+---
+
+<div class="content-page">
+
+<div class="cv-download-box">
+  <div>Download a full copy of my curriculum vitae.</div>
+  <a href="CV_Deki.pdf" target="_blank">Download CV (PDF)</a>
+</div>
+
+## Education
+
+### Ph.D., Political Science
+**University of South Carolina** — 2022–Present
+Major Field: International Relations | Subfield: Comparative Politics
+
+### M.A., International and Comparative Politics
+**Wright State University** — 2016–2018
+Thesis: *Nationalism and Regional Relations in Democratic Transitions*
+
+### B.A., Politics, Philosophy, and Economics
+**Asian University for Women**, Chittagong, Bangladesh — 2008–2014
+Thesis: *Insights and Lessons from the Arab Spring*
+
+---
+
+## Selected Employment
+
+| Position | Institution | Dates |
+|---|---|---|
+| Research Assistant (Dr. Jerry Silverman) | University of South Carolina | Jan 2025–Present |
+| Graduate Assistant | University of South Carolina | 2022–Present |
+| Associate Lecturer | Royal University of Bhutan | 2018–2022 |
+| Assistant Lecturer | Royal University of Bhutan | 2015–2018 |
+| Graduate Assistant | Wright State University | 2016–2018 |
+
+---
+
+## Skills
+
+**Languages:** Dzongkha (native), Hindi, Nepali, Bengali
+
+**Computing:** R, SAS, LaTeX, Overleaf, Quarto, R Markdown, GitHub
+
+**Methods:** Principal Component Analysis, Factor Analysis, Cluster Analysis, Multivariate Regression, Random Forests, Support Vector Machines, Multiple Imputation, Multidimensional Scaling, Canonical Correlation
+
+</div>

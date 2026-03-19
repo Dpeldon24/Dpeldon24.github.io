@@ -1,0 +1,51 @@
+---
+title: "Teaching"
+---
+
+<div class="content-page">
+
+## University of South Carolina
+
+### POLI 101 — Introduction to Global Politics
+
+<ul class="course-list">
+  <li><em>Introduction to Global Politics</em> <span class="course-sem">Undergraduate — Fall 2024, Fall 2023, Spring 2023</span></li>
+</ul>
+
+### Invited Talks
+
+<ul class="course-list">
+  <li>2025 — "Introduction to International Relations." Guest lecture for <em>POLI 105: Introduction to Politics</em>, University of South Carolina.</li>
+</ul>
+
+---
+
+## Royal University of Bhutan
+
+### College of Language and Culture Studies
+
+<ul class="course-list">
+  <li><em>BTN 304 — Bhutan and its International Relations</em> <span class="course-sem">Undergraduate — Fall 2021, Fall 2020</span></li>
+  <li><em>BTN 305 — Introduction to Gross National Happiness</em> <span class="course-sem">Undergraduate — Spring 2022, Spring 2021, Spring 2020, Spring 2019</span></li>
+  <li><em>BTN 407 — Advanced Study of Gross National Happiness</em> <span class="course-sem">Undergraduate — Spring 2020</span></li>
+  <li><em>HST 101 — Introduction to the Himalayas</em> <span class="course-sem">Undergraduate — Fall 2018</span></li>
+  <li><em>HIM 101 — Himalayan Studies I: History and Politics</em> <span class="course-sem">Undergraduate — Fall 2018</span></li>
+</ul>
+
+---
+
+## Advising
+
+<ul class="course-list">
+  <li>Rinchen Dorji — Master's Thesis Chair and Supervisor, 2019–2020</li>
+</ul>
+
+---
+
+## Service
+
+<ul class="course-list">
+  <li>2024–Present — Organizer, International Relations and Comparative Politics (IRCP) Brownbag, University of South Carolina. Biweekly meeting of IRCP graduate students to discuss and present research.</li>
+</ul>
+
+</div>

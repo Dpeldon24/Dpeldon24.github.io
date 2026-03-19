@@ -1,0 +1,77 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="site-banner">
+  <div class="banner-name">Deki Peldon</div>
+  <svg class="banner-svg" viewBox="0 0 900 165" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="0,165 80,95 160,125 260,58 360,100 460,42 560,88 660,32 760,78 860,25 900,48 900,165" fill="#253347"/>
+    <polygon points="0,165 100,118 200,145 310,98 420,132 530,85 640,122 750,76 860,115 900,90 900,165" fill="#1a2530"/>
+    <circle cx="55"  cy="38" r="2"   fill="#c97d3c" opacity="0.9"/>
+    <circle cx="140" cy="24" r="1.5" fill="#ffffff" opacity="0.65"/>
+    <circle cx="310" cy="18" r="2"   fill="#ffffff" opacity="0.5"/>
+    <circle cx="490" cy="12" r="1.5" fill="#c97d3c" opacity="0.85"/>
+    <circle cx="650" cy="8"  r="2"   fill="#ffffff" opacity="0.6"/>
+    <circle cx="800" cy="18" r="1.5" fill="#c97d3c" opacity="0.75"/>
+    <circle cx="880" cy="32" r="1"   fill="#ffffff" opacity="0.55"/>
+  </svg>
+</div>
+
+:::: {.home-layout}
+
+::: {.sidebar-col}
+
+::: {.profile-card}
+
+![Deki Peldon](original.png){style="width:160px;height:200px;object-fit:cover;object-position:top;border:1px solid #ddd;display:block;margin:0 auto 14px;"}
+
+::: {.profile-name}
+Deki Peldon
+:::
+
+::: {.profile-title}
+Ph.D. Candidate\
+Department of Political Science\
+University of South Carolina
+:::
+
+::: {.social-row}
+[✉](mailto:dpeldon@email.sc.edu){.social-btn title="Email"}
+[𝕏](https://twitter.com/Dpeldon24){.social-btn title="X / Twitter"}
+<a href="https://github.com/Dpeldon24" class="social-btn" title="GitHub"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a>
+:::
+
+[dpeldon\@email.sc.edu](mailto:dpeldon@email.sc.edu){.profile-email}
+
+:::
+
+:::
+
+::: {.main-col}
+
+::: {.bio-text}
+
+Deki Peldon is a Ph.D. Candidate in the [Department of Political Science](https://sc.edu/study/colleges_schools/artsandsciences/political_science/index.php) at the University of South Carolina. Her research sits at the intersection of international relations and comparative politics, with a focus on political violence, conflict processes, state repression, and human rights.
+
+Her dissertation, *Assassination as Strategic Choice: Consequences, Risks, and Triggers*, examines political assassination as a strategic instrument of statecraft. Through three connected papers, it traces the full arc of the assassination decision — from the societal consequences of successful killings, to the political fallout of failed attempts, to the conditions that lead states to escalate from non-lethal repression to targeted killing. She brings quantitative methods to bear on each of these questions, drawing on original data to study how and why states choose political violence as a tool of control.
+
+She is also engaged in research on transnational repression — how states collaborate across borders to surveil and suppress diaspora communities — and on how interstate rivalries are managed during periods of domestic instability.
+
+Prior to her doctoral studies, Deki served as an Associate and Assistant Lecturer at the College of Language and Culture Studies, Royal University of Bhutan, where she taught courses on Bhutan's international relations and Gross National Happiness. She received her M.A. in International and Comparative Politics from Wright State University and her B.A. in Politics, Philosophy, and Economics from the Asian University for Women in Bangladesh.
+
+:::
+
+::: {.interests-heading}
+Research Interests
+:::
+
+[International Relations]{.interest-tag}
+[Political Violence]{.interest-tag}
+[Conflict Processes]{.interest-tag}
+[Repression & Human Rights]{.interest-tag}
+[Quantitative Methods]{.interest-tag}
+
+:::
+
+::::
