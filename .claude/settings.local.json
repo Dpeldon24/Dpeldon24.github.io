@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"/Users/dekipeldon/Desktop/Fall, 2025/My website/\"*.qmd)",
+      "Bash(quarto render:*)",
+      "Bash(/usr/local/bin/quarto --version)",
+      "Bash(/opt/homebrew/bin/quarto --version)",
+      "Read(//Applications/**)",
+      "Read(//usr/**)",
+      "Bash(/Applications/RStudio.app/Contents/Resources/app/quarto/bin/quarto render:*)",
+      "Bash(open:*)",
+      "Bash(grep -iE \"\\\\.\\(jpg|jpeg|png|webp|heic|gif\\)$\")",
+      "Bash(cp image.png docs/image.png)",
+      "Bash(cp CV_Deki.pdf docs/CV_Deki.pdf)",
+      "Bash(cd:*)"
+    ]
+  }
+}

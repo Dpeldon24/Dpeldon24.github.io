@@ -6,7 +6,7 @@ title: "CV"
 
 <div class="cv-download-box">
   <div>Download a full copy of my curriculum vitae.</div>
-  <a href="CV_Deki.pdf" target="_blank">Download CV (PDF)</a>
+  <a href="New_CV-3.pdf" target="_blank">Download CV (PDF)</a>
 </div>
 
 ## Education
