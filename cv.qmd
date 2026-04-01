@@ -39,7 +39,7 @@ Thesis: *Insights and Lessons from the Arab Spring*
 
 ## Skills
 
-**Languages:** Dzongkha (native), Hindi, Nepali, Bengali
+**Languages:** Dzongkha (native), English, Hindi, Nepali, Bengali
 
 **Computing:** R, SAS, LaTeX, Overleaf, Quarto, R Markdown, GitHub
 
